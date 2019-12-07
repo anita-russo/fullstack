@@ -1,6 +1,6 @@
 # fullstack
 
-##Links  
+## Links  
 
 [Week 3](https://github.com/anita-russo/fullstack/tree/master/lab3)  
 
